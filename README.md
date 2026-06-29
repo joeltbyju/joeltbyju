@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/joeltbyju/joeltbyju/main/profile-banner.png" width="100%" alt="Banner">
 
-# Hi 👋 I'm Joel T Byju
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=1800&color=C9D1D9&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Joel+T+Byju;Aspiring+Software+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+DevOps" alt="Typing SVG" />
+</p>
+
 
 ### Aspiring Software Engineer • BCA Student • Full-Stack Developer
 
