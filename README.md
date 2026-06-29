@@ -75,7 +75,16 @@ Building software, exploring cloud technologies, and creating practical solution
 - 🌐 Full-Stack Web Projects
 
 ---
+## 🏆 Certifications
 
+- 🟦 Microsoft Certified: Power Platform Fundamentals (PL-900)
+- 🟪 Pearson IT Specialist – Data Analytics
+- 🛡️ Cyber Security Internship Program – Avanzo Cyber Security Solutions
+- 🐍 Data Science and Analytics with Python – ICT Academy of Kerala
+- 🤖 Build with Gemini 3 using AI Studio and Antigravity – ICT Academy of Kerala
+- 🟧 TensorFlow User Group – Deep Learning Master Class
+- 🟩 Microsoft Office Specialist: Excel Associate (Office 2019)
+---
 ## 🌱 Currently Learning
 
 - Software Engineering
