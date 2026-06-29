@@ -1,105 +1,101 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joeltbyju/joeltbyju/main/profile-banner.png" alt="Joel T Byju Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/joeltbyju/joeltbyju/main/profile-banner.png" width="100%" alt="Banner">
 
-<h1 align="center">Hi 👋, I'm Joel T Byju</h1>
+# Hi 👋 I'm Joel T Byju
 
-<h3 align="center">
-Aspiring Software Engineer • BCA Student • Full-Stack Developer
-</h3>
+### Aspiring Software Engineer • BCA Student • Full-Stack Developer
 
-<p align="center">
 Building software, exploring cloud technologies, and creating practical solutions through code.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Student at Christ College, Irinjalakuda
+- 💻 Passionate about Software Engineering & Backend Development
+- ☁️ Exploring Cloud Computing, DevOps & System Design
+- 🤖 Building Discord Bots & FiveM (QBCore) Resources
+- 🌱 Currently learning AI, Data Science and Modern Web Technologies
+- 📍 Thrissur, Kerala, India
+
+---
+
+## 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+</p>
+
+## 🌐 Web Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+
+## 🗄 Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+## ☁️ Cloud
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+</p>
+
+## ⚡ Microsoft Power Platform
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Pages-6B4EFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_Virtual_Agents-5C2D91?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-🎓 BCA Student at Christ College, Irinjalakuda
-
-💻 Passionate about Software Development and System Design
-
-🌐 Learning Full-Stack Web Development
-
-☁️ Exploring Cloud Computing & DevOps
-
-🔐 Interested in Cybersecurity
-
-🤖 Learning Artificial Intelligence & Data Science
-
-🎮 Building FiveM (QBCore) Resources & Discord Bots
-
-📍 Thrissur, Kerala, India
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-- JavaScript
-- Python
-- Lua
-- HTML
-- CSS
-- SQL
-
-### Frameworks & Tools
-- Node.js
-- Express.js
-- Git
-- GitHub
-- Linux
-- Docker
-- REST APIs
-
-### Database
-- MySQL
-- MariaDB
-
-### Cloud
-- AWS (Learning)
-- GitHub Actions
-- CI/CD
+- 🤖 AIVP Discord Bot
+- 🎮 FiveM QBCore Resources
+- 🏢 Custom Business System for QBCore
+- 🌐 Full-Stack Web Projects
 
 ---
 
 ## 🌱 Currently Learning
 
 - Software Engineering
-- Backend Development
-- DevOps
 - Cloud Computing
+- DevOps
 - Artificial Intelligence
 - Data Science
 
 ---
 
-## 🚀 Featured Projects
+## 📫 Connect
 
-⭐ FiveM QBCore Development
+<a href="https://www.linkedin.com/in/joel-t-byju/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-⭐ Discord Bots
-
-⭐ Custom Business System for QBCore
-
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/joel-t-byju/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:joeltbyju@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+<a href="mailto:joeltbyju@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
 > *"Code. Learn. Build. Improve. Repeat."* 🚀
-
